@@ -1,0 +1,74 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 675118562,
+      "message": {
+        "message_id": 129,
+        "from": {
+          "id": 286273527,
+          "is_bot": false,
+          "first_name": "Bohdan",
+          "last_name": "Oleksa",
+          "username": "OleksaBohdan",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 286273527,
+          "first_name": "Bohdan",
+          "last_name": "Oleksa",
+          "username": "OleksaBohdan",
+          "type": "private"
+        },
+        "date": 1630496288,
+        "text": "1"
+      }
+    },
+    {
+      "update_id": 675118563,
+      "message": {
+        "message_id": 130,
+        "from": {
+          "id": 286273527,
+          "is_bot": false,
+          "first_name": "Bohdan",
+          "last_name": "Oleksa",
+          "username": "OleksaBohdan",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 286273527,
+          "first_name": "Bohdan",
+          "last_name": "Oleksa",
+          "username": "OleksaBohdan",
+          "type": "private"
+        },
+        "date": 1630498546,
+        "text": "привет"
+      }
+    },
+    {
+      "update_id": 675118564,
+      "message": {
+        "message_id": 131,
+        "from": {
+          "id": 286273527,
+          "is_bot": false,
+          "first_name": "Bohdan",
+          "last_name": "Oleksa",
+          "username": "OleksaBohdan",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 286273527,
+          "first_name": "Bohdan",
+          "last_name": "Oleksa",
+          "username": "OleksaBohdan",
+          "type": "private"
+        },
+        "date": 1630498573,
+        "text": "111"
+      }
+    }
+  ]
+}
